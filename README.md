@@ -10,4 +10,6 @@ Visual Studio solution file - https://github.com/sudeeppal/Project_ShopBridge/tr
 
 Documenation file - https://github.com/sudeeppal/Project_ShopBridge/tree/main/ShopBridge.API/Documentation/ShopingBridge.API Documentation.pdf
 
-Deployment file - Deployment is published at https://github.com/sudeeppal/Project_ShopBridge/tree/main/ShopBridge.API/Deployment.zip 
+Deployment file - Deployment is published at https://github.com/sudeeppal/Project_ShopBridge/tree/main/ShopBridge.API/Deployment.zip
+
+SQL Script file - https://github.com/sudeeppal/Project_ShopBridge/tree/main/ShopBridge.API/script.sql
